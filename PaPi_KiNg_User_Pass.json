@@ -1,1 +1,127 @@
-
+{
+  "AdminUrl": "https://t.me/PaPi_KiNg_16",
+  "Announcement": "Welcome to PaPi KiNg VIP Mod! Join Telegram for updates.",
+  "ShowAnnouncement": true,
+  "Users": [
+    {
+      "Username": "papi",
+      "Password": "123",
+      "Expiry": "30/12/2030",
+      "DeviceID": ""
+    },
+    {
+      "Username": "king",
+      "Password": "king",
+      "Expiry": "30/12/2030",
+      "DeviceID": ""
+    },
+    {
+      "Username": "admin",
+      "Password": "admin",
+      "Expiry": "30/12/2030",
+      "DeviceID": ""
+    },
+    {
+      "Username": "vip1",
+      "Password": "vip1",
+      "Expiry": "30/12/2027",
+      "DeviceID": ""
+    },
+    {
+      "Username": "vip2",
+      "Password": "vip2",
+      "Expiry": "30/12/2027",
+      "DeviceID": ""
+    },
+    {
+      "Username": "vip3",
+      "Password": "vip3",
+      "Expiry": "30/12/2027",
+      "DeviceID": ""
+    },
+    {
+      "Username": "vip4",
+      "Password": "vip4",
+      "Expiry": "30/12/2027",
+      "DeviceID": ""
+    },
+    {
+      "Username": "vip5",
+      "Password": "vip5",
+      "Expiry": "30/12/2027",
+      "DeviceID": ""
+    },
+    {
+      "Username": "user1",
+      "Password": "111",
+      "Expiry": "30/12/2026",
+      "DeviceID": ""
+    },
+    {
+      "Username": "user2",
+      "Password": "222",
+      "Expiry": "30/12/2026",
+      "DeviceID": ""
+    },
+    {
+      "Username": "user3",
+      "Password": "333",
+      "Expiry": "30/12/2026",
+      "DeviceID": ""
+    },
+    {
+      "Username": "user4",
+      "Password": "444",
+      "Expiry": "30/12/2026",
+      "DeviceID": ""
+    },
+    {
+      "Username": "user5",
+      "Password": "555",
+      "Expiry": "30/12/2026",
+      "DeviceID": ""
+    },
+    {
+      "Username": "user6",
+      "Password": "666",
+      "Expiry": "30/12/2026",
+      "DeviceID": ""
+    },
+    {
+      "Username": "user7",
+      "Password": "777",
+      "Expiry": "30/12/2026",
+      "DeviceID": ""
+    },
+    {
+      "Username": "user8",
+      "Password": "888",
+      "Expiry": "30/12/2026",
+      "DeviceID": ""
+    },
+    {
+      "Username": "user9",
+      "Password": "999",
+      "Expiry": "30/12/2026",
+      "DeviceID": ""
+    },
+    {
+      "Username": "user10",
+      "Password": "000",
+      "Expiry": "30/12/2026",
+      "DeviceID": ""
+    },
+    {
+      "Username": "test",
+      "Password": "test",
+      "Expiry": "01/01/2026",
+      "DeviceID": ""
+    },
+    {
+      "Username": "free",
+      "Password": "free",
+      "Expiry": "01/01/2026",
+      "DeviceID": ""
+    }
+  ]
+}
