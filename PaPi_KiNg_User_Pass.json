@@ -1,13 +1,14 @@
 {
   "AdminUrl": "https://t.me/PaPi_KiNg_16",
-  "Announcement": "Welcome to PaPi KiNg VIP Mod! Join Telegram for updates.",
+  "Announcement": "Welcome to PaPi KiNg VIP Mod! You can now login Offline (24h limit).",
   "ShowAnnouncement": true,
+  "allowOffline": true,
   "Users": [
     {
-      "Username": "papi",
-      "Password": "123",
+      "Username": "papikingpro",
+      "Password": "PaPiKiNg123",
       "Expiry": "30/12/2030",
-      "DeviceID": ""
+      "DeviceID": "2c399b405b769418"
     },
     {
       "Username": "king",
@@ -114,13 +115,13 @@
     {
       "Username": "test",
       "Password": "test",
-      "Expiry": "01/01/2026",
+      "Expiry": "30/12/2026",
       "DeviceID": ""
     },
     {
       "Username": "free",
       "Password": "free",
-      "Expiry": "01/01/2026",
+      "Expiry": "30/12/2026",
       "DeviceID": ""
     }
   ]
