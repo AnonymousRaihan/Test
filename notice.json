@@ -1,10 +1,13 @@
 {
   "show": true,
   "id": 1,
+  "show_daily": false,
+  "daily_limit": 5,
+  "instant_show": false,
   "header": "NOTICE",
-  "title": "নতুন আপডেট এসেছে!",
-  "message": "আলহামদুলিল্লাহ, আমাদের অ্যাপের নতুন ভার্সন রিলিজ হয়েছে। নিচের বাটন চেপে বিস্তারিত দেখে নিন অথবা ক্লোজ করুন।",
-  "image_url": "https://raw.githubusercontent.com/AnonymousRaihan/Test/refs/heads/main/1636363068631.png",
+  "title": "নতুন আপডেট!",
+  "message": "আমাদের অ্যাপের নতুন আপডেট এসেছে। এখনই চেক করুন।",
+  "image_url": "https://i.imgur.com/FxWk2hD.png",
   "footer": "Modded By Shohan",
   "btn_text": "CANCEL"
 }
