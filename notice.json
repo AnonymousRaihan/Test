@@ -3,7 +3,7 @@
   "id": 1,
   "show_daily": false,
   "daily_limit": 5,
-  "instant_show": false,
+  "instant_show": true,
   "header": "NOTICE",
   "title": "নতুন আপডেট!",
   "message": "আমাদের অ্যাপের নতুন আপডেট এসেছে। এখনই চেক করুন।",
