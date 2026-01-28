@@ -1,7 +1,7 @@
 {
   "show": false,
   "id": 1,
-  "show_daily": false,
+  "show_daily": true,
   "daily_limit": 5,
   "instant_show": true,
   "header": "NOTICE",
