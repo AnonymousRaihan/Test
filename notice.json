@@ -1,5 +1,5 @@
 {
-  "show": true,
+  "show": false,
   "id": 1,
   "show_daily": false,
   "daily_limit": 5,
