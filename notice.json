@@ -1,8 +1,8 @@
 {
-  "show": false,
+  "show": true,
   "id": 1,
   "show_daily": true,
-  "daily_limit": 5,
+  "daily_limit": 2,
   "instant_show": true,
   "header": "NOTICE",
   "title": "নতুন আপডেট!",
